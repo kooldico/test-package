@@ -1,0 +1,19 @@
+{
+    "name": "mounak/pay",
+    "description": "This is for test",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mounak ghosh",
+            "email": "dev.mounak@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Pay\\Paytr\\": "src/"
+        }
+    },
+    "require": {}
+}
